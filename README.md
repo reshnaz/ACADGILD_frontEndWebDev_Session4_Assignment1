@@ -1,5 +1,19 @@
 # S4A1
 
+HTML content is present in "app.component.html".
+"bundle.js" is the transpiled output of the combined ts files -- "interface.ts" and "implementation.ts".
+
+Assignment –
+
+A. Create a namespace and add an interface and a function.
+
+B. Try to consume that interface and function from another file with the help of
+namespace. Create Index.html and add bundle.js in script tag.
+
+C. The function should display a message in a console.log()
+
+-----------------------------------------------------------------------------------
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
 
 ## Development server
